@@ -1,31 +1,38 @@
 # MITE
 
-![Mite Logo](Logo/logo.pdf)
+![Mite Logo](Logo/logo.png)
 
 
 MITE stands for
 
+```
 Mite
 Item
 Time
 Emit
+```
 
 , each of which in turn stand for:
-
+```
 Item
 Time
 Emit
 Mite
+```
 
+```
 Time
 Item
 Mite
 Emit
+```
 
+```
 Emit
 Mite
 Item
 Time
+```
 
 ... and so on.
 
