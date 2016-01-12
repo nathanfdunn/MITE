@@ -1,0 +1,41 @@
+   a
+abcd
+ d c
+ cabd
+ a
+
+   i
+emit
+ i e
+ time
+ e
+
+mite
+ t
+ emit
+ m
+
+Mite
+Item
+Time
+Emit
+
+Item
+Time
+Emit
+Mite
+
+Time
+Item
+Mite
+Emit
+
+Emit
+Mite
+Item
+Time
+
+ABCD
+BCDA
+CDAB
+DABC
