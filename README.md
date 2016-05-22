@@ -12,7 +12,7 @@ Time
 Emit
 ```
 
-, each of which in turn stand for:
+each of which in turn stand for:
 ```
 Item
 Time
@@ -37,3 +37,28 @@ Time
 ... and so on.
 
 MITE is a recursive acronym generator.
+
+# Usage
+```bash
+> python MITE.py 5
+
+ORGAN
+ANGOR
+GRANO
+GORAN
+ORANG
+ROGAN
+NAGOR
+GROAN
+ARGON
+
+LAGER
+ARGEL
+GLARE
+GARLE
+ERGAL
+LARGE
+REGAL
+```
+(Some assembly required)
+
